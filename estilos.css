@@ -1,0 +1,101 @@
+body {
+    background-color: rgba(255, 255, 255, 0.727);
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+
+div{
+    width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.secao {    
+    text-align: center;
+    border-bottom: 10px solid rgba(254, 140, 0, 0.649); 
+}
+
+.imagem-logotipo {
+    width: 150px;
+}
+
+.link {
+    padding: 15px;
+    margin: 5px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgb(94, 54, 5);
+    border-radius: 30% 30%;
+}
+
+.nossos-produtos {
+    background-color: rgb(94, 54, 5);
+}
+
+.produtos {
+    background-color: rgb(241, 137, 11);
+    padding: 10px 0px;
+}
+
+.contato {
+    background-color: rgb(94, 54, 5);
+   
+}
+
+.contato-2 {
+    background-color: rgb(241, 137, 11);
+    padding: 1px;
+}
+
+.h2 {
+    background-color: rgb(94, 54, 5);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(241, 137, 11);
+}
+
+h4 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0px 40px;
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+    color:rgb(255, 255, 255)
+}
+
+.produtos-padaria {
+    width: 80vw;
+}
+
+.paes {
+    width: 30vw;
+    border-radius: 25% 10%;
+}
+
+.bolo {
+    width: 30vw;
+    border-radius: 25% 10%;
+    padding-bottom: 30px;
+}
